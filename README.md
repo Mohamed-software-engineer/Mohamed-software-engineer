@@ -56,6 +56,6 @@ I’m also interested in distributed systems, system design, and applying softwa
 
 ## Connect With Me
 
-- **LinkedIn:** [www.linkedin.com/in/mohamed-saad-engineering](www.linkedin.com/in/mohamed-saad-engineering)
+- **LinkedIn:** [Mohamed Saad](https://www.linkedin.com/in/mohamed-saad-engineering)
 - **GitHub:** [Mohamed-software-engineer](https://github.com/Mohamed-software-engineer)
 - **Email:** mohamedsaad2812004@gmail.com
