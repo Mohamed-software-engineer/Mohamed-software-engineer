@@ -23,16 +23,16 @@ I’m also interested in distributed systems, system design, and applying softwa
 ## Tech Stack
 
 ### Languages
-`C#` `Python` `SQL` `JavaScript`
+`C#` `Python` `SQL` `C++`
 
 ### Backend
-`.NET` `ASP.NET Core` `FastAPI`
+`.NET` `ASP.NET Core` 
 
 ### Databases
 `SQL Server` `MySQL`
 
 ### ORMs
-`Entity Framework Core` `SQLAlchemy`
+`Entity Framework Core` 
 
 ### APIs & Backend Concepts
 `RESTful APIs` `Authentication` `Authorization` `CRUD Operations`
@@ -56,6 +56,6 @@ I’m also interested in distributed systems, system design, and applying softwa
 
 ## Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Here](www.linkedin.com/in/mohamed-saad-engineering)
+- **LinkedIn:** [www.linkedin.com/in/mohamed-saad-engineering](www.linkedin.com/in/mohamed-saad-engineering)
 - **GitHub:** [Mohamed-software-engineer](https://github.com/Mohamed-software-engineer)
 - **Email:** mohamedsaad2812004@gmail.com
